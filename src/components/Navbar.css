@@ -5,13 +5,27 @@
   padding: 0.75rem 1.5rem;
   background: #1a1a2e;
   border-bottom: 2px solid #e94560;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.navbar-transparent {
+  background: transparent;
+  border-bottom: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
 }
 
 .navbar-brand {
-  font-size: 1.25rem;
+  font-family: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  font-size: 1.4rem;
   font-weight: 700;
   color: #e94560;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .navbar-links {
@@ -23,13 +37,24 @@
 }
 
 .navbar-links a {
+  font-family: 'Barlow Condensed', 'Arial Narrow', sans-serif;
   color: #ccc;
   text-decoration: none;
-  font-size: 0.95rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   transition: color 0.2s;
 }
 
 .navbar-links a:hover,
 .navbar-links a.active {
   color: #e94560;
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
 }

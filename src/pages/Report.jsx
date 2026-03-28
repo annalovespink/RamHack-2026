@@ -16,6 +16,7 @@ export default function Report() {
       </div>
       <main className="page">
         <h1>Zone Report</h1>
+        <div className="table-wrapper">
         <table className="predictions-table">
           <thead>
             <tr>
@@ -36,6 +37,7 @@ export default function Report() {
             ))}
           </tbody>
         </table>
+        </div>
       </main>
     </>
   )
