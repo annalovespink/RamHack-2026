@@ -1,0 +1,12 @@
+[
+  { "cell_id": "BX-001", "area": "Mott Haven", "sinkhole_predicted": true },
+  { "cell_id": "BX-002", "area": "Hunts Point", "sinkhole_predicted": false },
+  { "cell_id": "BX-003", "area": "Longwood", "sinkhole_predicted": true },
+  { "cell_id": "BX-004", "area": "Melrose", "sinkhole_predicted": false },
+  { "cell_id": "BX-005", "area": "Morrisania", "sinkhole_predicted": true },
+  { "cell_id": "BX-006", "area": "Concourse", "sinkhole_predicted": false },
+  { "cell_id": "BX-007", "area": "Highbridge", "sinkhole_predicted": true },
+  { "cell_id": "BX-008", "area": "Fordham", "sinkhole_predicted": false },
+  { "cell_id": "BX-009", "area": "Tremont", "sinkhole_predicted": true },
+  { "cell_id": "BX-010", "area": "Belmont", "sinkhole_predicted": false }
+]
