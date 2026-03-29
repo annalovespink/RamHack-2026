@@ -46,7 +46,7 @@ export default function About() {
           We built a machine learning model that combines the NYC 311 cave-in complaints dataset with
           a number of other datasets, comparing other features including soil data, precipitation, road
           qualities, and nearby sinkhole complaints. Overall, our model achieves a 55% precision in
-          predicting that a sinkhole will appear in a 500 meter square radius.
+          predicting that a sinkhole will appear in an area that a sinkhole was actually reported.
         </p>
       </section>
 
