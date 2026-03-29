@@ -9,6 +9,24 @@ This project approaches sinkhole risk as an issue of infrastructure resilience a
 **Technologies Used**
 For this project we used Jupyter Notebook to build the Random Forest model.
 
+Frontend:
+React 19
+React Router DOM 6
+Vite 8
+
+Visualisation:
+Plotly.js (embedded via HTML export)
+
+Styling:
+Plain CSS (no framework)
+Barlow Condensed — Google Fonts
+
+Hosting & Deployment:
+Vercel
+
+Design:
+Figma
+
 **How the Model Works**
 
 Our model uses a Random Forest machine learning algorithm to predict where sinkholes are most likely to occur across New York City. The city is divided into a grid of 500m by 500m cells, and for each cell we calculate a set of features that capture environmental conditions and infrastructure stress. These features include 
