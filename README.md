@@ -1,5 +1,5 @@
 **Resilient NYC**
-A sinkhole prediction model built by Durga Desai, Anna Simonsen, and Sarah Zahaykevich for RamHacks 2026 in the Environment and Best Tech for Good tracks.
+A sinkhole prediction model built by Durga Desai, Anna Simonsen, and Sarah Zahaykevich for RamHacks 2026 in the Financial and Best Tech for Good tracks.
 
 **The Issue:** 
 
