@@ -1,4 +1,5 @@
 **Resilient NYC**
+
 A sinkhole prediction model built by Durga Desai, Anna Simonsen, and Sarah Zahaykevich for RamHacks 2026 in the Financial and Best Tech for Good tracks.
 
 **The Issue:** 
@@ -7,6 +8,7 @@ New York City faces a growing sustainable infrastructure challenge as aging wate
 This project approaches sinkhole risk as an issue of infrastructure resilience and preventative planning across New York City. By using publicly available civic, environmental, and infrastructure-related data, we aim to identify where conditions suggest elevated risk before major failures occur. A predictive, data-driven approach can help shift city management from reactive emergency repair to earlier, smarter intervention. In the long term, that supports more sustainable urban systems by reducing maintenance costs, improving public safety, and helping the city allocate resources more efficiently.
 
 **Technologies Used**
+
 For this project we used Jupyter Notebook to build the Random Forest model.
 
 Frontend:
